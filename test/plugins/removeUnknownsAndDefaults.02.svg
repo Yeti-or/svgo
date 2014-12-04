@@ -6,7 +6,9 @@
         test
     </test:test>
     <g>
-        test
+        <test>
+            test
+        </test>
     </g>
 </svg>
 
@@ -17,6 +19,5 @@
         test
     </test:test>
     <g>
-        test
     </g>
 </svg>

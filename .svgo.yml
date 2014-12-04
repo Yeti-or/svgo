@@ -24,7 +24,7 @@ plugins:
   - removeRasterImages
   - cleanupNumericValues
   - convertColors
-  - removeUnknownsAndDefaults
+  - removeUnknownsAndDefaults: false
   - removeNonInheritableGroupAttrs
   - removeUselessStrokeAndFill
   - removeViewBox
